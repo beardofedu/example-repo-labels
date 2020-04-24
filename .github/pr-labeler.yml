@@ -3,3 +3,5 @@ fix: fix/*
 chore: chore/*
 fixed-branch: fixed-branch-name
 release: release-*
+develop: develop
+develop-next: develop-next

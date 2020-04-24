@@ -5,3 +5,4 @@ fixed-branch: fixed-branch-name
 release: release-*
 develop: develop
 develop-next: develop-next
+hot-fix: hotfix-*
